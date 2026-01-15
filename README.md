@@ -1,10 +1,10 @@
 # QSG-002-001-Riemann-Zeta-Function
 Program for numerical verification of the spectral reformulation of the Riemann Hypothesis. Calculates the QSSC profile of an integer operator (HZ​) to show that Zeta zeros coincide with spectral resonances, validating the proposed self-consistency law.
 
-================================================================================
+
 SPECTRAL REFORMULATION OF THE RIEMANN HYPOTHESIS
 AS A LAW OF SELF-CONSISTENCY FOR AN INTEGER OPERATOR
-================================================================================
+
 
 Repository for Note QSG-002-001.
 Status: Experimental / Research Prototype

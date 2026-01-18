@@ -60,7 +60,7 @@ To install all dependencies, run the following command in your terminal:
 USAGE
 -----
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/QSG-002-001-Riemann-Zeta-Function.git
+   git clone https://github.com/evgeny-monakhov/QSG-002-001-Riemann-Zeta-Function.git
    cd QSG-002-001-Riemann-Zeta-Function
 
 2. Run the main script:
@@ -75,7 +75,7 @@ CONFIGURATION
 You can adjust the search range and precision directly inside the 'main()' 
 function of the script file:
 
-  TARGET_T = 100000.0     # Starting height (t)
+  TARGET_T = 12.0     # Starting height (t)
   TARGET_W = 20.0         # Window width (delta t)
 
 * TARGET_T: The imaginary part of s where the scan begins 
